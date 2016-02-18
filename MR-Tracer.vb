@@ -1,5 +1,8 @@
 ﻿Public Class MRTracer
-    'dd'
+    Private Sub DataTree_AfterSelect(sender As Object, e As TreeViewEventArgs) Handles DataTree.AfterSelect
 
+    End Sub
+    'dd'
+    'test'
 
 End Class
